@@ -1,4 +1,4 @@
-# CN-LAb-Assignment-1
+# CN-Lab-Assignment-1
 mininet topology, SDN firewall
 
 ## Question-1 
